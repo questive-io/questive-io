@@ -1,5 +1,10 @@
 ## Hi there!
 
+I am currently getting started.
+
+Entering the world of software development, exciting!⚡
+
+
 <!--
 **questive-io/questive-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
